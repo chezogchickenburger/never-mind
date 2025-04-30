@@ -1,4 +1,4 @@
 # The
 ## Website
 ### Link
-https://chezogchickenburger.github.io/never-mind/
+[here it is](https://chezogchickenburger.github.io/never-mind/){:target="_blank"} 
