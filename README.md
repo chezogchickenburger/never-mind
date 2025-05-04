@@ -1,4 +1,4 @@
 # The
 ## Website
 ### Link
-[here it is](https://chezogchickenburger.github.io/never-mind/)
+[is here](https://chezogchickenburger.github.io/never-mind/)
